@@ -1,6 +1,0 @@
-2025-08-29 21:29:25,971 - ERROR - Failed to load spaCy model: [E050] Can't find model 'en_core_web_sm'. It doesn't seem to be a Python package or a valid path to a data directory.
-2025-08-29 21:30:16,767 - INFO - Use pytorch device_name: cpu
-2025-08-29 21:30:16,767 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
-2025-08-29 21:34:11,151 - INFO - Use pytorch device_name: cpu
-2025-08-29 21:34:11,151 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
-2025-08-29 21:34:58,093 - INFO - Processing 'Mann' [answer] removeParentheticals=True
